@@ -1,1 +1,1 @@
-# CognoRise-InfoTech data sicence intership
+# CognoRise-InfoTech data science intership
